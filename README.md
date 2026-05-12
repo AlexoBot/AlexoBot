@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alexis Ballinas Torres 👋</h1>
-<h3 align="center">Full-Stack Developer · Scrum Master · AWS Certified · Based in Puebla, Mexico 🇲🇽</h3>
+<h3 align="center">Software Developer & Technical Consultant specializing in automation, web systems, internal tools, databases, and IT operations. · Based in Puebla, Mexico 🇲🇽</h3>
 
 <br/>
 
